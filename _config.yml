@@ -58,6 +58,6 @@ plugins:
 nav-links:
   - name: Home
     url: /
-  - name: About
-    url: /about
+  - name: Team
+    url: /team
   
