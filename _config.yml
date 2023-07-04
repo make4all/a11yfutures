@@ -23,7 +23,7 @@ email: jmankoff@acm.org
 description: >- # this means to ignore newlines until "baseurl:"
   The website for the Accessibility Futures Workshop. Join us in exploring future directions for accessibliity research
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+# url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jcmankoff
 github_username:  jmankoff
 
