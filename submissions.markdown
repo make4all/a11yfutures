@@ -3,8 +3,6 @@ layout: home
 title: "Call for Participation"
 toc: true
 ---
-{% toc %}
-
 
 # Submission Timeline and Process
 
