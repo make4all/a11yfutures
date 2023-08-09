@@ -3,8 +3,6 @@ layout: home
 title: "Call for Participation"
 toc: true
 ---
-{% toc %}
-
 Please join us in envisioning the future of accessibility work. As
 technology has extended into new realms, so has our field.
 Accessibility research is tackling a wider variety of topic areas
