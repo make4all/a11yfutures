@@ -3,7 +3,6 @@ layout: home
 title: "Call for Participation"
 toc: true
 ---
-{% toc %}
 
 
 # Participating in the Workshop
