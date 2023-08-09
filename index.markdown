@@ -1,6 +1,9 @@
 ---
 layout: home
+title: "Call for Participation"
+toc: true
 ---
+{% toc %}
 
 Please join us in envisioning the future of accessibility work. As
 technology has extended into new realms, so has our field.
@@ -28,6 +31,8 @@ future in which our field broadens its concept of relevant topics in
 the important work of studying and developing technology that supports
 and empowers people with disabilities.
 
+# Workshop Goals
+
 The goals of this workshop are to develop this agenda and launch a
 speaker series to explore these topics over the course of the next
 year. We plan to rotate the time of these talks to accommodate
@@ -39,4 +44,9 @@ submission of a relevant writing sample (we allow new writing, previously
 published formal and informal writing or videos). Participants can
 select whether accepted papers should be made public or not.
 
+# Workshop time and location
 
+
+- An East Coast workshop will be held on Sunday the 21st of October from 10am-12pm with an option to join the organizers for lunch afterwards. We are hoping to hold this at NYU but still need to confirm.
+- A West Coast workshop will be held on Monday the 16th of October from 1pm-3pm at the University of Washington.
+  
