@@ -2,6 +2,7 @@
 layout: home
 title: "Call for Participation"
 toc: true
+permalink: /schedule/
 ---
 
 
