@@ -23,7 +23,8 @@ We plan to support hybrid participation in the workshop, as well as asynchronous
 
 Other accessibility defaults
 - We will project autocaptions in person and enable them online
-- We will request funding from ASSETS for CART/ASL participation if needed. 
+- We will request funding from ASSETS for CART/ASL participation if needed. We do not yet have confirmation about whether this will be supported. Please reach out to us when you submit if you need this.
 - We have tried to schedule events at timezone-inclusive times
+- We would like to hear from you about any other needs. Contact jmankoff@acm.org
 
 
