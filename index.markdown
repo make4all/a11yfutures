@@ -12,8 +12,8 @@ people without disabilities.
 
 Examples of recent work in these domains
 include spaces where people with disabilities are under represented
-(such as in higher education, or under studied, such as research into
-the experiences of immigrants with disabilities; and research that
+(such as in higher education), or under studied (such as research into
+the experiences of immigrants with disabilities); and research that
 looks at intersectional identities such as race and disability.
 However many relevant domains remain to be explored including domains
 where people with disabilities are over-represented (such as in
