@@ -25,8 +25,8 @@ ASSETS if they are attending in person).
 
 # Schedule and Location
 
-- A West Coast workshop will be held on Tuesday the 17th of October from 1pm-3pm at the University of Washington.
-- An East Coast workshop will be held on Sunday the 21st of October from 10am-12pm with an option to join the organizers for lunch afterwards. We are hoping to hold this at NYU but still need to confirm.
+- A West Coast workshop will be held on Tuesday the 17th of October from 1pm-3pm PST at the University of Washington.
+- An East Coast workshop will be held on Sunday the 22nd of October from 10am-12pm EST with an option to join the organizers for lunch afterwards. We are hoping to hold this at NYU but still need to confirm.
 
 These events will be structured as follows:
 - 15 minutes: Introductions

@@ -45,6 +45,6 @@ select whether accepted papers should be made public or not.
 # Workshop time and location
 
 
-- A hybrid West Coast workshop will be held on Tuesday the 17th of October from 1pm-3pm at the University of Washington.
-- A hybrid East Coast workshop will be held on Sunday the 21st of October from 10am-12pm with an option to join the organizers for lunch afterwards (for in person participants only). Location is still TBD. 
+- A hybrid West Coast workshop will be held on Tuesday the 17th of October from 1pm-3pm PST at the University of Washington.
+- A hybrid East Coast workshop will be held on Sunday the 22nd of October from 10am-12pm EST with an option to join the organizers for lunch afterwards (for in person participants only). Location is still TBD. 
   
