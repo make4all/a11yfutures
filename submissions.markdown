@@ -19,7 +19,7 @@ submissions to participants, and post them (with permission) on this website.
 
 # Default and Possible Accommodations
 
-We plan to support hybrid participation in the workshop, as well as asynchronous participation (see our [Schedule]({{site.url}}/schedule/) for more details).
+We plan to support hybrid participation in the workshop, as well as asynchronous participation (see our [Schedule]({{site.url}}/a11yfutures/schedule/) for more details).
 
 Other accessibility defaults
 - We will project autocaptions in person and enable them online
