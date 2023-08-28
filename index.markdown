@@ -3,7 +3,7 @@ layout: home
 title: "Call for Participation"
 toc: true
 ---
-Please join us at our ASSETS 2023 Workshop on envisioning the future of accessibility work. As
+Please join us at our [ASSETS 2023 Workshop](https://assets23.sigaccess.org/accepted-workshops.html) on envisioning the future of accessibility work. As
 technology has extended into new realms, so has our field.
 Accessibility research is tackling a wider variety of topic areas
 driven by the observation that people with disabilities are present in
