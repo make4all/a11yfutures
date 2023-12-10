@@ -4,7 +4,7 @@ title: "Call for Participation"
 toc: true
 ---
 
-# Workshop
+# A11Futures Workshop
 
 Please join us at our [ASSETS 2023 Workshop](https://assets23.sigaccess.org/accepted-workshops.html) on envisioning the future of accessibility work. As
 technology has extended into new realms, so has our field.
